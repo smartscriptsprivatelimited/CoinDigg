@@ -15,18 +15,18 @@
 
 Coindigg is an online platform committed to publishing updates, insights, and educational articles about cryptocurrencies. With the crypto universe expanding rapidly, Coindigg aims to deliver precise and easily digestible information for both novice investors and experienced crypto enthusiasts.
 
-### 🏢  Overview
+### 📚  Overview
 
 Coindigg approached us with the goal of developing a sleek, clean, and fast-loading blog website to share cryptocurrency articles. The objective was to create an **informative and SEO-friendly** website that is easy to manage while keeping the user experience front and center.
 
-### Technology Stack
+### 🧑🏻‍💻 Technology Stack
 
 - **WordPress** – Chosen for its versatility and ease of content management.
 - **Elementor** – Used to design responsive and visually appealing layouts.
 - **Astra Theme** – A lightweight, performance-optimized theme suited for content-heavy sites.
 - **PHP & MySQL** – Used for backend development and dynamic content handling.
 
-###  Key Features Implemented
+###  ✨ Key Features Implemented
 
 - **Clean Blog Structure:** Categorized sections for intuitive navigation across topics.
 - **Responsive Design:** Optimized for mobile, tablet, and desktop users.
@@ -42,8 +42,6 @@ The main challenge was achieving the right balance between design and performanc
 ### 📈 Results  
 
 We successfully delivered a modern, intuitive, and high-performance WordPress blog for Coindigg. The final site aligned with the client's vision and provided a solid platform for their growing content needs and digital presence.
-
-### Client Testimonial
 
 > _"We needed a website that's stylish as well as functional—and the team hit it on the spot. The process was seamless, and the end website really reflects our brand."_  
 > — **Coindigg Team**
