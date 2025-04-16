@@ -43,5 +43,7 @@ The main challenge was achieving the right balance between design and performanc
 
 We successfully delivered a modern, intuitive, and high-performance WordPress blog for Coindigg. The final site aligned with the client's vision and provided a solid platform for their growing content needs and digital presence.
 
+### 🙎🏻Client Testimonial
+
 > _"We needed a website that's stylish as well as functional—and the team hit it on the spot. The process was seamless, and the end website really reflects our brand."_  
 > — **Coindigg Team**
